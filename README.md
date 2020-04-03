@@ -17,4 +17,4 @@ The external data used are:
 - The file /pythonScripts/big.txt was downloaded from http://norvig.com/big.txt
 
 Instruction to Setup/Run:
-Go to this [File](https://github.com/vatsal30/AutoGrader/blob/master/Instructions_Linux.txt)
+- Go to this [File](https://github.com/vatsal30/AutoGrader/blob/master/Instructions_Linux.txt)
